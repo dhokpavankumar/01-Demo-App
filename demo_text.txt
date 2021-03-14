@@ -8,3 +8,6 @@ p=200
 class student():
 		
 		//----hic-122
+
+class teacher():
+	//---hic-122
