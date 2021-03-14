@@ -4,3 +4,7 @@ a=20
 print(ab)
 
 p=200
+
+class student():
+		
+		//----hic-122
